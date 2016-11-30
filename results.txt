@@ -1,0 +1,89 @@
+이다
+declarative present formal high 입니다
+declarative past formal high 였습니다
+declarative future formal high 일 겁니다
+
+아니다
+declarative present formal high 아닙니다
+declarative past formal high 아니었습니다
+declarative future formal high 아닐 겁니다
+
+가다
+declarative present formal high 갑니다
+declarative past formal high 갔습니다
+declarative future formal high 갈 겁니다
+
+사다
+declarative present formal high 삽니다
+declarative past formal high 샀습니다
+declarative future formal high 살 겁니다
+
+보다
+declarative present formal high 봅니다
+declarative past formal high 봤습니다
+declarative future formal high 볼 겁니다
+
+만니다
+declarative present formal high 만닙니다
+declarative past formal high 만녔습니다
+declarative future formal high 만닐 겁니다
+
+베우다
+declarative present formal high 베웁니다
+declarative past formal high 베웠습니다
+declarative future formal high 베울 겁니다
+
+기다리다
+declarative present formal high 기다립니다
+declarative past formal high 기다렸습니다
+declarative future formal high 기다릴 겁니다
+
+숰제하다
+declarative present formal high 숰제합니다
+declarative past formal high 숰제했습니다
+declarative future formal high 숰제할 겁니다
+
+전화하다
+declarative present formal high 전화합니다
+declarative past formal high 전화했습니다
+declarative future formal high 전화할 겁니다
+
+걷다
+declarative present formal high 걷습니다
+declarative past formal high 걸었습니다
+declarative future formal high 걸을 겁니다
+
+읽다
+declarative present formal high 읽습니다
+declarative past formal high 읽었습니다
+declarative future formal high 읽을 겁니다
+
+어렵다
+declarative present formal high 어렵습니다
+declarative past formal high 어려웠습니다
+declarative future formal high 어려울 겁니다
+
+쉬다
+declarative present formal high 쉽니다
+declarative past formal high 쉬었습니다
+declarative future formal high 쉴 겁니다
+
+재미있다
+declarative present formal high 재미있습니다
+declarative past formal high 재미있었습니다
+declarative future formal high 재미있을 겁니다
+
+맛있다
+declarative present formal high 맛있습니다
+declarative past formal high 맛있었습니다
+declarative future formal high 맛있을 겁니다
+
+살다
+declarative present formal high 삽니다
+declarative past formal high 살았습니다
+declarative future formal high 살 겁니다
+
+만들다
+declarative present formal high 만듭니다
+declarative past formal high 만들었습니다
+declarative future formal high 만들 겁니다

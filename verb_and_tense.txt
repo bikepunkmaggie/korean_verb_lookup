@@ -1,0 +1,2 @@
+이다,아니다,가다,사다,보다,만니다,베우다,기다리다,숰제하다,전화하다,걷다,읽다,어렵다,쉬다,재미있다,맛있다,살다,만들다
+declarative present formal high,declarative past formal high,declarative future formal high
