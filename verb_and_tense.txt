@@ -1,2 +1,2 @@
-이다
-declarative present formal high,declarative past formal high,declarative future formal high
+이다, 가다
+declarative present formal high,declarative past formal high
